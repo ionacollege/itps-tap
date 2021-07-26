@@ -1,0 +1,6 @@
+exp-all-
+/com/jgaap/resources/load_all_author_files.csv
+
+Character NGrams|N:2,Character NGrams|N:3,First Word In Sentence,Lexical Frequencies,MW Function Words,Naming Reaction Times,POS,POS NGrams|N:2,POS NGrams|N:3,Prepositions,Sorted Character NGram|N:2,Sorted Character NGram|N:3,Suffices,Vowel-initial Words,Word NGrams|N:2,Word stems
+Most Common Events
+Linear SVM,Nearest Neighbor Driver;Cosine Distance,WEKA Multilayer Perceptron,WEKA SMO

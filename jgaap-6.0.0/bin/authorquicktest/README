@@ -1,0 +1,14 @@
+# Setup
+* git clone https://spcampbe@bitbucket.org/spcampbe/paineproject.git
+
+# Files changed from 2015-01-18
+* authorquicktest.Utils
+* ExperimentEngine
+* API
+* Document (got rid of "throws Exception" on constructor)
+
+# Files created since 2015-01-18
+* CompoundExperiment
+* CompoundLeaveOneOutExperiment
+* CompoundTestExperiment
+* AuthorPackageIO

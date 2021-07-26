@@ -1,0 +1,25 @@
+JGAAP is released under the AGPL v3.0 a copy should be included
+if not it can be found at http://www.gnu.org/licenses/agpl.html
+
+authorquicktest is an experimental package. We are in the process of making it
+more maintainable by cleaning up the code and getting it to work with the latest
+version of JGAAP.
+
+We are not responsible for the results outputted by this software. It is meant
+for research purposes only.
+
+
+# Setup
+* git clone https://spcampbe@bitbucket.org/spcampbe/paineproject.git
+
+# Files changed from 2015-01-18
+* authorquicktest.Utils
+* ExperimentEngine
+* API
+* Document (got rid of "throws Exception" on constructor)
+
+# Files created since 2015-01-18
+* CompoundExperiment
+* CompoundLeaveOneOutExperiment
+* CompoundTestExperiment
+* AuthorPackageIO

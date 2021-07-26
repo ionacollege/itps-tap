@@ -1,0 +1,46 @@
+#Event Drivers
+Character NGrams,Cg
+Coarse POS Tagger,Cpost
+First Word In Sentence,Fwis
+Lexical Frequencies,Lfreq
+MW Function Words,Mwfw
+Naming Reaction Times,Nrt
+POS,Pos
+POS NGrams,Posg
+Prepositions,Prep
+Suffices,Suf
+SW French Origin,Swfo
+Vowel-initial Words,Viw
+Word NGrams,Wg
+Word stems,Ws
+
+New Lines,Nl
+Sorted Character NGram,Scg
+Word Lengths,Wl
+Words,W
+Stanford Part of Speech,Spos
+
+~SW French Origin 2,Swfo2
+~Rare Words,Rw
+~SWAaron041114,Swa041114
+
+#Event Culling
+Most Common Events,Mce
+Information Gain,Ig
+
+#Analysis Methods
+Centroid Driver;Cosine Distance,Cdcosd
+Centroid Driver;Histogram Distance,Cdhisd
+K-Nearest Neighbor Driver;Cosine Distance,Knndcosd
+K-Nearest Neighbor Driver;Histogram Distance,Knndhisd
+Linear SVM,Lsvm
+WEKA Multilayer Perceptron,Mp
+WEKA Naive Bayes Classifier,Nbc
+Nearest Neighbor Driver;Cosine Distance,Nndcosd
+Nearest Neighbor Driver;Histogram Distance,Nndhisd
+WEKA SMO,Smo
+
+LDA,Lda
+WEKA Voted Perceptron,Vp
+
+~Gaussian SVM,Gsvm

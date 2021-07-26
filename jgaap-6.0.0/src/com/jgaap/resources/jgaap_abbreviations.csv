@@ -1,0 +1,52 @@
+#Event Drivers,
+Character NGrams,Cg
+Coarse POS Tagger,Cpost
+First Word In Sentence,Fwis
+Lexical Frequencies,Lfreq
+Lexical Stress,Lstress
+MW Function Words,Mwfw
+New Lines,Nl
+Naming Reaction Times,Nrt
+POS,Pos
+POS NGrams,Posg
+Prepositions,Prep
+Sorted Character NGram,Scg
+Stanford Part of Speech,Spos
+Suffices,Suf
+SW French Origin,Swfo
+Vowel-initial Words,Viw
+Word NGrams,Wg
+Word stems,Ws
+Word Lengths,Wl
+Words,W
+~SW French Origin 2,Swfo2
+~Rare Words,Rw
+~SWAaron041114,Swa041114
+#Event Culling,
+Information Gain,Ig
+Least Common Events,Lce
+Most Common Events,Mce
+Standard Deviation Culler,Stddev
+Variance Culler,Var
+Weighted Variance,Wvar
+#Analysis Methods,
+Burrows Delta,Bd
+Centroid Driver;Cosine Distance,Cdcosd
+Centroid Driver;Histogram Distance,Cdhisd
+JW Cross Entropy,Jwce
+K-Nearest Neighbor Driver;Cosine Distance,Knndcosd
+K-Nearest Neighbor Driver;Histogram Distance,Knndhisd
+LDA,Lda
+Linear SVM,Lsvm
+Mahalanobis Distance,Maha
+Markov Chain Analysis,Mca
+Nearest Neighbor Driver;Cosine Distance,Nndcosd
+Nearest Neighbor Driver;Histogram Distance,Nndhisd
+Null Analysis,Na
+Null Histogram Analysis,Nha
+WEKA Multilayer Perceptron,Mp
+WEKA Naive Bayes Classifier,Nbc
+WEKA RBF Network,Rbf
+WEKA SMO,Smo
+WEKA Voted Perceptron,Vp
+~Gaussian SVM,Gsvm
