@@ -194,7 +194,7 @@ public class AuthorPackageIO
 							// and add it to the documents list before moving on
 							// to the next document.
 							if (doc != null) {
-								doc.setText(docText.toString());
+								doc.readStringText(docText.toString());
 								documents.add(doc);
 							}
 							// If we're just starting this document, create a

@@ -241,8 +241,8 @@ public class AuthorQuickTestFrame extends JFrame implements StatusLog
 		saveExcelFileMenuItem.setMnemonic(KeyEvent.VK_E);
 		saveExcelFileMenuItem.addActionListener(new AQTSaveFileListener(this, ".xlsx", "Save results as Excel spreadsheet..."));
 		saveExcelFileMenuItem.setEnabled(false);
-		saveRawResultsTextMenuItem = new JMenuItem("Save Raw Results as Text File (Alt+R)");
-		saveRawResultsTextMenuItem.setMnemonic(KeyEvent.VK_R);
+		saveRawResultsTextMenuItem = new JMenuItem("Save Raw Results as Text File (Alt+S)");
+		saveRawResultsTextMenuItem.setMnemonic(KeyEvent.VK_S);
 		saveRawResultsTextMenuItem.addActionListener(new AQTSaveFileListener(this, ".txt", "Save raw results as a text file..."));
 		saveRawResultsTextMenuItem.setEnabled(false);
 
