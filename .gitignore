@@ -1,3 +1,4 @@
-*.class
+jgaap-6.0.0/bin/
+.DS_Store
 jgaap-6.0.0/**/*.jar
 
